@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0416f08a-841f-46f1-895b-96d0ac18cda7" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.2-bin" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1c9SyKnGU68lccRPStdNCL3lAEL" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\springboot\code\leyou-portal\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0416f08a-841f-46f1-895b-96d0ac18cda7" name="默认更改列表" comment="" />
+      <created>1589939568399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589939568399</updated>
+      <workItem from="1589939571278" duration="2024000" />
+      <workItem from="1589941614507" duration="385000" />
+      <workItem from="1589942008916" duration="660000" />
+      <workItem from="1589944418577" duration="3018000" />
+      <workItem from="1590024606871" duration="1115000" />
+      <workItem from="1590071566501" duration="856000" />
+      <workItem from="1590132649546" duration="2791000" />
+      <workItem from="1590196549058" duration="9315000" />
+      <workItem from="1590280640090" duration="6121000" />
+      <workItem from="1590367315583" duration="3022000" />
+      <workItem from="1590455098295" duration="1513000" />
+      <workItem from="1590457778876" duration="10655000" />
+      <workItem from="1590540788229" duration="3599000" />
+      <workItem from="1590806096937" duration="6326000" />
+      <workItem from="1590896967205" duration="2592000" />
+      <workItem from="1590978964260" duration="8072000" />
+      <workItem from="1591059345234" duration="9863000" />
+      <workItem from="1591231076658" duration="8402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590367320383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590367320383" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590368037076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590368037076" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591243839773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591243839773" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (28, 'zhangsan', 'e21d44f200365b57fab2641cd31226d4', '13600527634', '2018-05-25 17:52:03', '05b0f203987e49d2b72b20b95e0e57d9');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (30, 'leyou', '4de9a93b3f95d468874a3c1bf3b25a48', '15855410440', '2018-09-30 11:37:30', '4565613d4b0e434cb496d4eb87feb45f');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (31, 'yangsong', '502b68c67ddc9332bbe6f2cc9fede54b', '15596772375', '2020-05-30 12:37:46', '8810b461f6de49e89a9acb8c376e0651');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (32, 'yangsong1', '508d796b9aba3e593a16a5abcf554f5a', '13812345678', '2020-05-30 12:51:19', 'e9a11af991774932ac196bfbc418d406');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (33, 'angdada', 'f84a5edd2ba26bfd119a61ade847f4c1', '18082237482', '2020-05-30 18:13:08', '5d7d067a0e6a438fa6749c3521b1bcd9');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (34, 'lixiaolong', '2ea3a19b3aa9a74562bcdd6b1e946197', '15596772384', '2020-06-03 21:17:59', '89e15a9372514d1f85125f25b4b16188');
+INSERT INTO `tb_user`(`id`, `username`, `password`, `phone`, `created`, `salt`) VALUES (35, 'zhangxiaolong', '263ad537fe5cd37332d86f7ab67145d9', '15596772379', '2020-06-03 21:19:18', 'bbab8202b38b4eee99ce5e2cd93d9ac3');
